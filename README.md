@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arjunrao5685
+- 👋 Hi, I’m @mallikarjuna_rao
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently working on JAVA and Javascript
 - 💞️ I’m looking to collaborate on new development projects
